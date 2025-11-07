@@ -7,9 +7,28 @@ I work on web development, I enjoy turning ideas into clean, efficient apps.
 ---
 
 ## 🚀 Projects
-- **Movement Tracking System** — End-to-end movement tracking & analytics.  
-- **E-commerce Website** — Full-stack e-commerce (auth, catalogue, payments).  
-- **Credit Card Fraud Detector** — ML pipeline + deployment.  
+
+### 📝 Blogging Website  
+A full-featured platform where users can create, edit, and publish blogs with user authentication, likes, and comments.  
+**Tech Used:** React, Node.js, Express.js, MongoDB  
+
+---
+
+### 🛍️ E-Commerce Platform  
+An online shopping platform with product catalog, shopping cart, user authentication, and payment gateway integration.  
+**Tech Used:** Java, Spring Boot, MySQL  
+
+---
+
+### 🌦️ Weather Forecast Application  
+A responsive web app that provides real-time weather updates using API data.  
+**Tech Used:** HTML, CSS, JavaScript, OpenWeather API  
+
+---
+
+### 💳 Credit Card Fraud Detection  
+A machine learning project that identifies fraudulent transactions using classification algorithms.  
+**Tech Used:** Python, Pandas, Scikit-learn, Jupyter Notebook  
 
 
 ---
