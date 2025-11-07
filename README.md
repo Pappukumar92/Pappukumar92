@@ -63,6 +63,20 @@ I’m passionate about upskilling in emerging technologies, and I’m currently 
 
 ---
 
+
+## 🏆 Achievements  
+- Presented research paper at **International Conference (ICRMTCEE)**  
+- Participated in **Tomato Grand Challenge Hackathon**  
+- Worked as **Coordinator** in Coding Ninjas Coding Competition  
+- Received **College Academic Scholarship** for 4 consecutive years  
+
+---
+
+## 🎓 Certificates  
+- **Full Stack Software Development**  
+- **Data Visualization with R**  
+- **NPTEL Certification (Gold, IoT)**  
+
 ## 📫 Connect
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pappu-kumar-/)
