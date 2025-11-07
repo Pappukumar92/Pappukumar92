@@ -2,7 +2,7 @@
 
 ## 💼 About Me
 I’m a Software Engineer & B.E. Computer Science Engineer (graduated 2025).
-I work on web development, I enjoy turning ideas into clean, efficient apps.
+I enjoy turning complex problems into efficient, user-friendly applications.I believe in continuous learning, collaboration, and building technology that drives innovation.  
 
 ---
 
