@@ -14,12 +14,6 @@ A full-featured platform where users can create, edit, and publish blogs with us
 
 ---
 
-### 🛍️ E-Commerce Platform  
-An online shopping platform with product catalog, shopping cart, user authentication, and payment gateway integration.  
-**Tech Used:** Java, Spring Boot, MySQL  
-
----
-
 ### 🌦️ Weather Forecast Application  
 A responsive web app that provides real-time weather updates using API data.  
 **Tech Used:** HTML, CSS, JavaScript, OpenWeather API  
