@@ -75,7 +75,9 @@ I’m passionate about upskilling in emerging technologies, and I’m currently 
 ## 🎓 Certificates  
 - **Full Stack Software Development**  
 - **Data Visualization with R**  
-- **NPTEL Certification (Gold, IoT)**  
+- **NPTEL Certification (Gold, IoT)**
+
+---
 
 ## 📫 Connect
 ### 📫 Connect with Me  
